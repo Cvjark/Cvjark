@@ -1,4 +1,4 @@
-### Hi there 👋, I am Cvjark, Welcome!
+##### Hey there 👋
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cvjark&show_icons=true&theme=nightowl"/>

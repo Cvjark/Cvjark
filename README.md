@@ -1,6 +1,8 @@
 ### Hi there 👋, I am Cvjark, Welcome!
 
-![cvjark's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvjark&show_icons=true&theme=nightowl)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cvjark&show_icons=true&theme=nightowl"/>
+</div>
 
 [![cvjark's github activity graph](https://activity-graph.herokuapp.com/graph?username=cvjark&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

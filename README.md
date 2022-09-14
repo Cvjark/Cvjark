@@ -7,7 +7,7 @@
 ##### - 💬 关于交流，可以在相应的板块提交 issue 
 
 
- <img width="250" src="https://github-readme-stats.vercel.app/api?username=cvjark&show_icons=true&theme=nightowl"/><img width="250" src="https://activity-graph.herokuapp.com/graph?username=cvjark&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
+ <img width="300" src="https://github-readme-stats.vercel.app/api?username=cvjark&show_icons=true&theme=nightowl"/><img width="300" src="https://activity-graph.herokuapp.com/graph?username=cvjark&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
 
 
 

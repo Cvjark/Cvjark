@@ -7,11 +7,12 @@
 ##### - 💬 关于交流，可以在相应的板块提交 issue 
 
 
- <img width="300" src="https://github-readme-stats.vercel.app/api?username=cvjark&show_icons=true&theme=nightowl"/><img width="300" src="https://activity-graph.herokuapp.com/graph?username=cvjark&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
+ <img  src="https://github-readme-stats.vercel.app/api?username=cvjark&show_icons=true&theme=nightowl"/>
 
 
 
-[![cvjark's github activity graph](https://activity-graph.herokuapp.com/graph?username=cvjark&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)![image](https://github-readme-stats.vercel.app/api?username=cvjark&show_icons=true&theme=nightowl)
+
+
 
 
 
@@ -30,4 +31,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![cvjark's github activity graph](https://activity-graph.herokuapp.com/graph?username=cvjark&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->

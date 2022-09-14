@@ -10,7 +10,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cvjark&show_icons=true&theme=nightowl"/>
 </div>
 
+
+
+<img width="500" src="https://user-images.githubusercontent.com/89090949/190223917-a45672d1-8a42-417a-b1f1-4894febfe11c.png" /><img width="350" height="250" src="https://github-readme-stats.vercel.app/api?username=cvjark&show_icons=true&theme=nightowl"/>
+
 [![cvjark's github activity graph](https://activity-graph.herokuapp.com/graph?username=cvjark&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
